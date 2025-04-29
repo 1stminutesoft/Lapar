@@ -70,11 +70,6 @@ RecipeGenerator/
 
 Never commit your OpenAI API key to GitHub. Use environment variables or a `.properties` config file for production environments.
 
----
-
-## 📸 Screenshots
-
-> _(Include screenshots of the form and response page here if available.)_
 
 ---
 
@@ -100,4 +95,4 @@ Never commit your OpenAI API key to GitHub. Use environment variables or a `.pro
 ## 👨‍💻 Author
 
 Fakhrul Zaki  
-[LinkedIn | Portfolio | Email if public]
+[LinkedIn]([https://www.linkedin.com/in/your-profile-name](https://www.linkedin.com/in/fakhrul-adli-mohd-zaki-135b83344/)
