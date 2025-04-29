@@ -37,7 +37,7 @@ public class ChatServlet extends HttpServlet {
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
      */
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "";
 
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
