@@ -70,6 +70,14 @@ RecipeGenerator/
 
 Never commit your OpenAI API key to GitHub. Use environment variables or a `.properties` config file for production environments.
 
+---
+## 📸 Screenshots
+
+### Recipe Generator Form
+![Form Screenshot](Homepage.png)
+
+### Recipe Result Page
+![Result Screenshot](Recipe.png)
 
 ---
 
