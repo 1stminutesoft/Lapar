@@ -37,7 +37,7 @@ public class ChatServlet extends HttpServlet {
      * @throws ServletException if a servlet-specific error occurs
      * @throws IOException if an I/O error occurs
      */
-    private static final String API_KEY = "";
+
 
   
     /**
