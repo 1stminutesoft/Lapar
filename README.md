@@ -95,4 +95,4 @@ Never commit your OpenAI API key to GitHub. Use environment variables or a `.pro
 ## 👨‍💻 Author
 
 Fakhrul Zaki  
-[LinkedIn]([https://www.linkedin.com/in/your-profile-name](https://www.linkedin.com/in/fakhrul-adli-mohd-zaki-135b83344/)
+[LinkedIn](https://www.linkedin.com/in/fakhrul-adli-mohd-zaki-135b83344)
